@@ -13,7 +13,7 @@ GET, POST, PUT, DELETE
 
 Instrution for use the code in local.
 1. Download MAMP and intall.
-2. Put 'api_test' folder inside to 'C:\MAMP\htdocs'
+2. Put 'main/api_test' folder inside to 'C:\MAMP\htdocs'
 3. Start the MAMP server by desktop MAMP app.
 4. SQL admin can access through //localhost/MAMP/'
 5. clone the repo and run.
