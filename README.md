@@ -1,5 +1,6 @@
 # RestAssuredAPITesting_2
 REST Assured API  testing with jackson databind.
+App usexd: IntelliJ
 
 In this repo, REST API testing with jackson data binding implemented.
 In the begining of ApiTest.java file RestAssured.given is imported.
